@@ -1,3 +1,7 @@
+package models;
+
+import models.Author;
+
 import java.util.ArrayList;
 import java.util.List;
 

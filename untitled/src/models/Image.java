@@ -1,4 +1,8 @@
-public class Image implements Element{
+package models;
+
+import models.Element;
+
+public class Image implements Element {
     String imageName;
 
     public Image (String image){

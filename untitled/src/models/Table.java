@@ -1,4 +1,8 @@
-public class Table implements Element{
+package models;
+
+import models.Element;
+
+public class Table implements Element {
     private String title;
 
     public Table (String nameTable){
